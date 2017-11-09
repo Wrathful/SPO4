@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\SPO4\SPO4\bin\Debug\SPO4.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SPO4\SPO4\bin\Debug\SPO4.exe
+c:\users\user\documents\visual studio 2015\Projects\SPO4\SPO4\bin\Debug\SPO4.pdb
+c:\users\user\documents\visual studio 2015\Projects\SPO4\SPO4\obj\Debug\SPO4.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SPO4\SPO4\obj\Debug\SPO4.exe
+c:\users\user\documents\visual studio 2015\Projects\SPO4\SPO4\obj\Debug\SPO4.pdb
